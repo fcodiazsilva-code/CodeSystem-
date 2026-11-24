@@ -1,0 +1,6 @@
+{
+  "name": "Code System",
+  "description": "Empresa de ingeniería de software, aplicaciones móviles, plataformas SaaS y ecosistemas digitales escalables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
